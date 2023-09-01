@@ -1,8 +1,8 @@
-<image src="https://static.platzi.com/media/blog/og-aprende-como-tener-el-mejor-readme-en-tu-perfil-github-829d23b0-ab18-4815-a07f-ce8ef64a4f06.png" alt=""/>
-
+<image src="https://i.postimg.cc/7Lk7HPdR/og-aprende-como-tener-el-mejor-readme-en-tu-perfil-github-829d23b0-ab18-4815-a07f-ce8ef64a4f06.webp"  >
+  
 # Hyperblog 💚
 Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
-> El curso de Git y Github de Platzi es lo que me hacía falta para trip****licar mi salario y lanzarme a la industria del tejido de lana sintética con Machine Learning
+> El curso de Git y Github de Platzi es lo que me hacía falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintética con Machine Learning
 > - niñita
 
 ## En este curso vemos de todo
